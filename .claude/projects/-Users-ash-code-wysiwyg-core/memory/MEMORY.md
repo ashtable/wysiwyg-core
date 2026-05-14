@@ -1,0 +1,1 @@
+- [No co-authored-by](feedback_no_coauthor.md) — Never add Co-Authored-By trailers to commits
